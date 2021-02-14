@@ -1,0 +1,8 @@
+{
+  "auths": {
+    "gcr.io": {
+      "auth": "<BASE64-ENCODED-AUTH-DETAILS>"
+    }
+    // Add other registries as necessary
+  }
+}
